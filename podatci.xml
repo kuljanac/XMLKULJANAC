@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clubs>
+  <club>
+    <naziv>Secret Club</naziv>
+    <adresa>Draskoviceva ul. 34, 10000, Zagreb</adresa>
+    <kapacitet>500</kapacitet>
+  </club>
+  <club>
+    <naziv>Gallery Club</naziv>
+    <adresa>Jarunska ul. 5, 10000, Zagreb</adresa>
+    <kapacitet>1000</kapacitet>
+  </club>
+  <club>
+    <naziv>The Best Venue Hall</naziv>
+    <adresa>Jarunska ul. 2, 10000, Zagreb</adresa>
+    <kapacitet>2000</kapacitet>
+  </club>
+  <club>
+    <naziv>Club H2O</naziv>
+    <adresa>Juranjaninova 6, 10000, Zagreb</adresa>
+    <kapacitet>600</kapacitet>
+  </club>
+</clubs>
